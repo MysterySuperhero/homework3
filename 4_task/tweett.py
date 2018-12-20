@@ -1,0 +1,113 @@
+{
+  'created_at': 'Tue Dec 18 19:09:56 +0000 2018',
+  'id': 1075105903349780486,
+  'id_str': '1075105903349780486',
+  'text': '@KIRILL_aka_KID @KseNNik @Deadinternet Да лааадно😏 ниче нового ты там не увидел)',
+  'display_text_range': [39, 80],
+  'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>',
+  'truncated': False,
+  'in_reply_to_status_id': 1075105749062311936,
+  'in_reply_to_status_id_str': '1075105749062311936',
+  'in_reply_to_user_id': 256610123,
+  'in_reply_to_user_id_str': '256610123',
+  'in_reply_to_screen_name': 'KIRILL_aka_KID',
+  'user': {
+    'id': 960373557455966208,
+    'id_str': '960373557455966208',
+    'name': 'Uchpochmack',
+    'screen_name': 'sashasmurfic',
+    'location': 'Челябинск, Россия',
+    'url': None,
+    'description': None,
+    'translator_type': 'none',
+    'protected': False,
+    'verified': False,
+    'followers_count': 406,
+    'friends_count': 151,
+    'listed_count': 4,
+    'favourites_count': 2138,
+    'statuses_count': 9963,
+    'created_at': 'Mon Feb 05 04:44:33 +0000 2018',
+    'utc_offset': None,
+    'time_zone': None,
+    'geo_enabled': True,
+    'lang': 'ru',
+    'contributors_enabled': False,
+    'is_translator': False,
+    'profile_background_color': 'F5F8FA',
+    'profile_background_image_url': '',
+    'profile_background_image_url_https': '',
+    'profile_background_tile': False,
+    'profile_link_color': '1DA1F2',
+    'profile_sidebar_border_color': 'C0DEED',
+    'profile_sidebar_fill_color': 'DDEEF6',
+    'profile_text_color': '333333',
+    'profile_use_background_image': True,
+    'profile_image_url': 'http://pbs.twimg.com/profile_images/999946827326722049/K07HLRXf_normal.jpg',
+    'profile_image_url_https': 'https://pbs.twimg.com/profile_images/999946827326722049/K07HLRXf_normal.jpg',
+    'profile_banner_url': 'https://pbs.twimg.com/profile_banners/960373557455966208/1518461261',
+    'default_profile': True,
+    'default_profile_image': False,
+    'following': None,
+    'follow_request_sent': None,
+    'notifications': None
+  },
+  'geo': None,
+  'coordinates': None,
+  'place': {
+    'id': 'b500b655bf0c515a',
+    'url': 'https://api.twitter.com/1.1/geo/id/b500b655bf0c515a.json',
+    'place_type': 'city',
+    'name': 'Челябинск',
+    'full_name': 'Челябинск, Россия',
+    'country_code': 'RU',
+    'country': 'Россия',
+    'bounding_box': {
+      'type': 'Polygon',
+      'coordinates': [
+        [
+          [61.143663, 54.990904],
+          [61.143663, 55.320894],
+          [61.592048, 55.320894],
+          [61.592048, 54.990904]
+        ]
+      ]
+    },
+    'attributes': {}
+  },
+  'contributors': None,
+  'is_quote_status': False,
+  'quote_count': 0,
+  'reply_count': 0,
+  'retweet_count': 0,
+  'favorite_count': 0,
+  'entities': {
+    'hashtags': [],
+    'urls': [],
+    'user_mentions': [{
+      'screen_name': 'KIRILL_aka_KID',
+      'name': 'KIRILL_aka_KID',
+      'id': 256610123,
+      'id_str': '256610123',
+      'indices': [0, 15]
+    }, {
+      'screen_name': 'KseNNik',
+      'name': 'Kseniya',
+      'id': 470032417,
+      'id_str': '470032417',
+      'indices': [16, 24]
+    }, {
+      'screen_name': 'Deadinternet',
+      'name': 'Dead Santa',
+      'id': 141499450,
+      'id_str': '141499450',
+      'indices': [25, 38]
+    }],
+    'symbols': []
+  },
+  'favorited': False,
+  'retweeted': False,
+  'filter_level': 'low',
+  'lang': 'ru',
+  'timestamp_ms': '1545160196517'
+}
